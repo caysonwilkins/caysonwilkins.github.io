@@ -25,7 +25,10 @@ The attempt to create more reliable, faster, and affordable methods of diagnosis
 
 As we can see, computer vision is a very large topic that has lots of potential to help with many things in our society. It has a history that started many years ago that started with a simple idea and developed into much more complex ideologies. With the combination of machine learning and artificial intelligence improvements developed over the years, we can see computer vision start to progress alongside it. These progressions have been seen developed in recent years with the ideas of self-driving cars and the ability to recognize road lines, facial recognition for phones, and even in very recent issues, try and solve global pandemic problems. With computer vision progressing, we will be sure to see it be more useful and more widely used as it develops in the future.
 
-Sources:
+### Sources:
+
 Brownlee, Jason. A Gentle Introduction to Computer Vision. 5 July 2019, machinelearningmastery.com/what-is-computer-vision/. 
+
 Huang, Thomas. "Computer vision: Evolution and promise." (1996).
+
 Ulhaq, Anwaar, et al. "Computer vision for covid-19 control: A survey." arXiv preprint arXiv:2004.09420 (2020).
